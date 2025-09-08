@@ -1,0 +1,11 @@
+#board {
+  display: grid;
+  grid-template-columns: repeat(10, 50px);
+  grid-template-rows: repeat(10, 50px);
+  background-color: rgb(90, 93, 90);
+  width: 500px;
+  height: 500px;
+  margin-left: 400px;
+  margin-top: 50px;
+  padding: 20px;
+}
